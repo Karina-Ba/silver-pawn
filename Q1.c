@@ -1,6 +1,4 @@
 //***********************************************************************************************************************************
-// Karina Batmanishvili                                                                                                             *
-// Id: 321800898                                                                                                                    *
 // Q1: Function recieves a board with the current gameplay and a position in the board,                                             *
 // if theres a player in that position function creates a binary tree of all possible moves, otherwise return is NULL               *
 //***********************************************************************************************************************************
