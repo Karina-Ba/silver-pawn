@@ -1,6 +1,4 @@
 //***********************************************************************************************************************************
-// Karina Batmanishvili                                                                                                             *
-// Id: 321800898                                                                                                                    *
 // Q7: Function recieves a board and a starting player, function plays a game where the computer decides on the moves both          *
 // top player and down player (computer plays a game on its own) function prints the board it recieved and on every turn will       *
 // print the player who's turn it is now and the gameplay he made                                                                   *
