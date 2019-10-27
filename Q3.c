@@ -1,6 +1,4 @@
 //***********************************************************************************************************************************
-// Karina Batmanishvili                                                                                                             *
-// Id: 321800898                                                                                                                    *
 // Q3: Function recieves a board and a player and returns a list of lists with best possible moves from                             *
 // every position of the player recieved and has a possible move to make                                                            *
 //***********************************************************************************************************************************
