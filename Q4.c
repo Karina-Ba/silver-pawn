@@ -1,6 +1,4 @@
 //***********************************************************************************************************************************
-// Karina Batmanishvili                                                                                                             *
-// Id: 321800898                                                                                                                    *
 // Q4: Function recieves a board and a player and makes the best move from possible moves in current board,                         *
 // in case of captures it takes the captured off the board                                                                          *
 //***********************************************************************************************************************************
