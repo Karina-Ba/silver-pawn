@@ -1,6 +1,4 @@
 //***********************************************************************************************************************************
-// Karina Batmanishvili                                                                                                             *
-// Id: 321800898                                                                                                                    *
 // Q2: Function recieves a tree of a certain player position and returnes the optimal line of gameplay with most captures from all  *
 // possible gameplayes available in the tree, if there's more than one then pick randomly (Mine picks the first one it encounters)  *
 //***********************************************************************************************************************************
