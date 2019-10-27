@@ -1,6 +1,4 @@
 //***********************************************************************************************************************************
-// Karina Batmanishvili                                                                                                             *
-// Id: 321800898                                                                                                                    *
 // Q5: Function recieves a board and a file name, the function saves the board into the file in a binary representation             *
 // 00 - Empty space, 01 - Player T, 10 - Player B. Saved row after row with no spaces from left to right.                           *
 //***********************************************************************************************************************************
